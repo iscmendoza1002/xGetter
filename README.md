@@ -7,14 +7,7 @@ I change something to comply with Google play policy.
 # xGetter Library for Android!  
 [![](https://jitpack.io/v/KhunHtetzNaing/XGetter.svg)](https://jitpack.io/#KhunHtetzNaing/XGetter)  
 
-ရုပ်ရှင်နဲ့ Video App ဖန်တီးချင်သူတွေအနေနဲ့  
-အသုံးဝင်မယ့် Library လေးပါ။   
-ကြော်ငြာကြည့်စရာမလိုပဲ  
-တိုက်ရိုက်ဒေါင်းဖို့လင့်ဆွဲထုတ်ပေးနိုင်ပြီး
-ရလာတဲ့လင့်ကို တိုက်ရိုက်ဒေါင်းမလား  
-ကိုယ်ပိုင် Player နဲ့တိုက်ရိုက်ပြမလား  
-အဆင်ပြေသလိုအသုံးချနိုင်ပါတယ်။  
-လောလာဆယ်ပါဝင်တဲ့ Site တွေကတော့  
+
   
  - **1. Google Drive**  
  - **2. DailyMotion**  
